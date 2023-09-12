@@ -8,8 +8,6 @@ html,body{
     margin: 0;
 }
 
-
-
 #container{
     background-color: #393E46;
     padding-bottom: 60px;
@@ -22,22 +20,18 @@ html,body{
     justify-content: space-evenly;
     padding-top: 60px;
 }
-    
-    
+      
 
 h1{
     font-size: 8rem;
     color: #4ECCA3;
     text-shadow: 5px 0 #232931;
-    font-family: 'Lobster', cursive;
-    
-    
+    font-family: 'Lobster', cursive; 
 }
 
 .flag{
     width: 200px;
-    display:none;
-    
+    display:none; 
 }
     
 h2{
